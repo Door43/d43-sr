@@ -1,19 +1,21 @@
 
-----
-~~NOCACHE~~
-**Door43**
 
-  * [[sr:home|Door43 (sr)]]
-  * [[en:license|License]]
+----
+
+~~NOCACHE~~ **Door43**
+
+   * [[:sr:home|Door43 (sr)]]
+  * [[:en:license|License]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-sr|d43-sr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sr/archive/master.zip|d43-sr.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-sr|d43-sr repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-sr/archive/master.zip|d43-sr.zip]]
 
 **Recent Changes**
+
 {{changes>ns = sr}}
 
 **Language Information**
 
-[[http://www.ethnologue.com/language/sr|Ethnologue data]]
+[[http://www.ethnologue.com/language/srp|Ethnologue data]]
 

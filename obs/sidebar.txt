@@ -1,5 +1,4 @@
 
-
 ----
 
 ~~NOCACHE~~ **Door43**
@@ -19,10 +18,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/srp|Ethnologue data]]
 
-
 **Resources**
 
   * [[sr:obs|Open Bible Stories (sr)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:sr:obs:status}}

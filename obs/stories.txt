@@ -1,7 +1,7 @@
 
 
   - [[:sr:obs:01|1. Стварање]]
-  - [[:sr:obs:02|2. Sin Enters the World]]
+  - [[:sr:obs:02|2. ]]Грех долази на свет
   - [[:sr:obs:03|3. The Flood]]
   - [[:sr:obs:04|4. God’s Covenant with Abraham]]
   - [[:sr:obs:05|5. The Son of Promise]]

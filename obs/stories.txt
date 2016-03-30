@@ -1,8 +1,9 @@
+[[:sr:obs:01|1. Стварање]]
 
+2. Грех долази на свет
 
-  - [[:sr:obs:01|1. Стварање]]
-  - 1.2. Грех долази на свет
- \\   - [[:sr:obs:03|3. The Flood]]
+[[:sr:obs:03|3. ]]Потоп
+
   - [[:sr:obs:04|4. God’s Covenant with Abraham]]
   - [[:sr:obs:05|5. The Son of Promise]]
   - [[:sr:obs:06|6. God Provides for Isaac]]
@@ -54,4 +55,3 @@
   * [[:sr:obs:front-matter|Front Matter]]
   * [[:sr:obs:back-matter|Back Matter]]
   * [[:sr:obs:app_words|Mobile App Words]]
-

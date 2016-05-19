@@ -12,7 +12,7 @@
   - [[:sr:obs:10|10. ]]Десет чуда
   - [[:sr:obs:11|11. ]]Пасха
   - [[:sr:obs:12|12. ]]Излазак
-  - [[:sr:obs:13|13. God’s Covenant with Israel]]
+  - [[:sr:obs:13|13. ]]Божије заповести
   - [[:sr:obs:14|14. Wandering in the Wilderness]]
   - [[:sr:obs:15|15. The Promised Land]]
   - [[:sr:obs:16|16. The Deliverers]]

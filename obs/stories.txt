@@ -13,7 +13,7 @@
   - [[:sr:obs:11|11. ]]Пасха
   - [[:sr:obs:12|12. ]]Излазак
   - [[:sr:obs:13|13. ]]Божији завет са Израелом
-  - [[:sr:obs:14|14. Wandering in the Wilderness]]
+  - [[:sr:obs:14|14. ]]Лутање кроз пустињу
   - [[:sr:obs:15|15. The Promised Land]]
   - [[:sr:obs:16|16. The Deliverers]]
   - [[:sr:obs:17|17. God’s Covenant with David]]

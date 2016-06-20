@@ -1,57 +1,39 @@
-====== 33. The Story of the Farmer ======
+====== 33. Прича о сејачу ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-One day, Jesus was teaching a very large crowd of people near the shore of the lake. So many people came to hear him that Jesus got into a boat at the edge of the water in order to have enough space to speak to them. He sat in the boat and taught the people.
+Једног дана, Исус је проповедао веома великом мноштву народа у близини обале језера. Тако су многи људи долазили да га чују  Исус је ушао у чамац на обали језера како би могао да са свима разговара. Он је седео у чамцу и учио људе.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
+Исус је испричао ову причу. "Сејач је изашао да посеје семе. Док је сејао, једно семе је пало поред пута, и дошле су птице и појеле све то семе."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-Jesus told this story. "A farmer went out to plant some seed. As he was spreading the seeds by hand, some seeds happened to fall on the path, and the birds came and ate all of those seeds."
+"Друго семе је пало на каменито тло, где је било веома мало земље. Семе у камењару је брзо изникло, али  њихови корени нису били у стању да иду дубоко у земљу. Када је сунце угрејало и постало је вруће, биљке су се осушиле  и увеле су. "
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
+"Неки су пали међу трње. То семе је почело да расте, али трње их је угушило. Тако су биљке које су расле из семена у трновитим терену нису донеле никакав род."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-"Other seeds fell on rocky ground, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died."
+"Други су пали у добру земљу. Ове семенке су порасле и донеле род по 30, 60, или чак 100 пута више од онога што је посејано. Ко има уши да чује, нека чује!"
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
+Ова прича је збунила ученике. Онда им је Исус казао причу, "Семе је реч Божија. Пут је особа која слуша Божју реч, али га не разуме, и ђаво узима реч далеко од њега."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-"Still other seeds fell among thorn bushes. Those seeds began to grow, but the thorns choked them out. So the plants that grew from the seeds in the thorny ground did not produce any grain."
+"Каменито тло је особа која слуша Божју реч и прихвата је са радошћу. Али када он доживи потешкоће или прогон, он удари назад."
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
+"Трновито тло је особа која слуша Божју реч, али како време пролази, бриге, богатство и жеље тела угуше  љубав према Богу. Као резултат остаје без рода."
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-"Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. He who has ears, let him hear!"
+"Али добро тло је особа која чује реч Божју, верује, и доноси род у своје време."
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
-
-This story confused the disciples. So Jesus explained, "The seed is the word of God. The path is a person who hears God's word, but does not understand it, and the devil takes the word away from him."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
-
-"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or persecution, he falls away."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
-
-"The thorny ground is a person who hears God's word, but as time passes, the cares, riches, and pleasures of life choke out his love for God. As a result, the teaching he heard does not produce fruit."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
-
-"But the good soil is a person who hears the word of God, believes it, and produces fruit."
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
-
-
+//Библијске приче: Матеј 13:1-8, 18-23; Марко 4:1-8, 13-20; Лука 8:4-15//

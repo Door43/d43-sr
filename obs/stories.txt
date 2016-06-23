@@ -35,7 +35,7 @@
   - [[:sr:obs:33|33. ]]Прича о сејачу
   - [[:sr:obs:34|34. ]]Исус учи друге приче
   - [[:sr:obs:35|35. ]]Прича о изгубљеном сину
-  - [[:sr:obs:36|36. The Transfiguration]]
+  - [[:sr:obs:36|36. ]]Преображење
   - [[:sr:obs:37|37. Jesus Raises Lazarus from the Dead]]
   - [[:sr:obs:38|38. Jesus Is Betrayed]]
   - [[:sr:obs:39|39. Jesus Is Put on Trial]]

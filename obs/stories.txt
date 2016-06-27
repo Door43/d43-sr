@@ -37,7 +37,7 @@
   - [[:sr:obs:35|35. ]]Прича о изгубљеном сину
   - [[:sr:obs:36|36. ]]Преображење
   - [[:sr:obs:37|37. ]]Исус подиже Лазара из мртвих
-  - [[:sr:obs:38|38. Jesus Is Betrayed]]
+  - [[:sr:obs:38|38. ]]Јудина издаја
   - [[:sr:obs:39|39. Jesus Is Put on Trial]]
   - [[:sr:obs:40|40. Jesus Is Crucified]]
   - [[:sr:obs:41|41. God Raises Jesus from the Dead]]

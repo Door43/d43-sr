@@ -49,7 +49,7 @@
   - [[:sr:obs:47|47. ]]Павле и Сила у Филипи
   - [[:sr:obs:48|48. ]]Исус је обећани Месија
   - [[:sr:obs:49|49. ]]Нови завет
-  - [[:sr:obs:50|50. Jesus Returns]]
+  - [[:sr:obs:50|50. ]]Исусов други долазак
 
   * [[:sr:obs:front-matter|Front Matter]]
   * [[:sr:obs:back-matter|Back Matter]]
